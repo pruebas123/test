@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 edite este archivo a su gusto
+=======
+﻿soy más inteligente que mi jefe
+kevin no ha leido esto XD
+la lalala lala lalala lala
+>>>>>>> 93a72a67c4d814fa128f85b8581d457596da673e
